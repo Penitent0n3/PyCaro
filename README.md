@@ -10,8 +10,7 @@ Bước 3: Lấy project về máy
 Hướng dẫn chạy game
 Bước 1: Xem IP của mạng internet mà máy đang dùng
 Bước 2: Nhập IP đó vào trong client.py ở vị trí sau:
-![Uploading image.png…]()
-
+image
 
 Bước 3: Chạy file server.py trên terminal ( chỉ cần chạy trên máy mà bạn xem IP)
 Bước 4: Chạy file client.py trên terminal ở lần lượt 2 máy
